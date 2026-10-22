@@ -441,4 +441,4 @@ async function getPageNavigationHistory(domain) {
     };
   }
 }
->>>>>>> origin/master
+
