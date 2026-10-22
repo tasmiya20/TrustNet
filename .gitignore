@@ -1,0 +1,16 @@
+*.csv
+phishing_dataset/
+sentiment_dataset/
+attachments/
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# IDE
+.vscode/
